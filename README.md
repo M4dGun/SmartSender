@@ -1,5 +1,5 @@
-SMART SENDER - per inviare le email ai sorvegliant d'aula in modo veloce e semplice.
+SMART SENDER - Programma per inviare le email ai sorveglianti d'aula in modo veloce e semplice.
 
-Progetto per me stesso.
+Progetto per me stesso, non pensato per gli altri.
 
 M.
